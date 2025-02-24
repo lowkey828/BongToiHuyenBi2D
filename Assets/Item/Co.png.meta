@@ -1,25 +1,37 @@
 fileFormatVersion: 2
-guid: 7d3dfdb42eea13d44b89801fa4434e8c
+guid: cac3816e5056fdd40acf3e943b74c73d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -570807933488141205
-    second: SPA_Enemy_Right_0
+      213: -4210519707303282330
+    second: Co_0
   - first:
-      213: -7165589731514352205
-    second: SPA_Enemy_Right_1
+      213: 251009490456004405
+    second: Co_1
   - first:
-      213: -8322909438818461173
-    second: SPA_Enemy_Right_2
+      213: -7079425009646898263
+    second: Co_2
   - first:
-      213: -6255873791086419314
-    second: SPA_Enemy_Right_3
+      213: 6334543467354799963
+    second: Co_3
   - first:
-      213: 8428840200775804847
-    second: SPA_Enemy_Right_4
+      213: 47196115239806955
+    second: Co_4
   - first:
-      213: -4694928931602649372
-    second: SPA_Enemy_Right_5
+      213: -3315733070868952043
+    second: Co_5
+  - first:
+      213: 4733371498384548596
+    second: Co_6
+  - first:
+      213: -5000020877325986549
+    second: Co_7
+  - first:
+      213: 2921705848364696546
+    second: Co_8
+  - first:
+      213: 1505444791162028945
+    second: Co_9
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -115,13 +127,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SPA_Enemy_Right_0
+      name: Co_0
       rect:
         serializedVersion: 2
-        x: 14
-        y: 6
-        width: 26
-        height: 22
+        x: 18
+        y: 0
+        width: 32
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,20 +142,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6ce67175351418f0800000000000000
-      internalID: -570807933488141205
+      spriteID: 669f76e62aa3195c0800000000000000
+      internalID: -4210519707303282330
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPA_Enemy_Right_1
+      name: Co_1
       rect:
         serializedVersion: 2
-        x: 52
-        y: 6
-        width: 26
-        height: 20
+        x: 82
+        y: 0
+        width: 32
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,20 +164,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3bd76e6aa16be8c90800000000000000
-      internalID: -7165589731514352205
+      spriteID: 537c1e93dc3cb7300800000000000000
+      internalID: 251009490456004405
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPA_Enemy_Right_2
+      name: Co_2
       rect:
         serializedVersion: 2
-        x: 90
-        y: 6
-        width: 26
-        height: 18
+        x: 146
+        y: 0
+        width: 32
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,20 +186,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b0ada7946f51f7c80800000000000000
-      internalID: -8322909438818461173
+      spriteID: 9a3fafd4674d0cd90800000000000000
+      internalID: -7079425009646898263
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPA_Enemy_Right_3
+      name: Co_3
       rect:
         serializedVersion: 2
-        x: 128
-        y: 8
-        width: 28
-        height: 26
+        x: 210
+        y: 0
+        width: 32
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -196,20 +208,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e822e9a9eebae29a0800000000000000
-      internalID: -6255873791086419314
+      spriteID: b5f34f1c8b1d8e750800000000000000
+      internalID: 6334543467354799963
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPA_Enemy_Right_4
+      name: Co_4
       rect:
         serializedVersion: 2
-        x: 166
-        y: 12
-        width: 28
-        height: 24
+        x: 274
+        y: 0
+        width: 32
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -218,20 +230,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fa726c3318149f470800000000000000
-      internalID: 8428840200775804847
+      spriteID: be7a5a3ed9ca7a000800000000000000
+      internalID: 47196115239806955
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPA_Enemy_Right_5
+      name: Co_5
       rect:
         serializedVersion: 2
-        x: 202
-        y: 6
-        width: 26
-        height: 26
+        x: 338
+        y: 0
+        width: 32
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -240,8 +252,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4eeae12f20348deb0800000000000000
-      internalID: -4694928931602649372
+      spriteID: 51c47dce6562cf1d0800000000000000
+      internalID: -3315733070868952043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Co_6
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 0
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f26b2f9c4050b140800000000000000
+      internalID: 4733371498384548596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Co_7
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 0
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b059279d08b5c9ab0800000000000000
+      internalID: -5000020877325986549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Co_8
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e385fd3dfbfb8820800000000000000
+      internalID: 2921705848364696546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Co_9
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 0
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193cc26bf0a64e410800000000000000
+      internalID: 1505444791162028945
       vertices: []
       indices: 
       edges: []
@@ -260,12 +360,16 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      SPA_Enemy_Right_0: -570807933488141205
-      SPA_Enemy_Right_1: -7165589731514352205
-      SPA_Enemy_Right_2: -8322909438818461173
-      SPA_Enemy_Right_3: -6255873791086419314
-      SPA_Enemy_Right_4: 8428840200775804847
-      SPA_Enemy_Right_5: -4694928931602649372
+      Co_0: -4210519707303282330
+      Co_1: 251009490456004405
+      Co_2: -7079425009646898263
+      Co_3: 6334543467354799963
+      Co_4: 47196115239806955
+      Co_5: -3315733070868952043
+      Co_6: 4733371498384548596
+      Co_7: -5000020877325986549
+      Co_8: 2921705848364696546
+      Co_9: 1505444791162028945
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
