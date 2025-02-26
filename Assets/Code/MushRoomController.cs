@@ -8,14 +8,14 @@ public class MushRoomController : MonoBehaviour
     public Transform pointA;
     public Transform pointB;
 
+    public int health = 3;
+
     Animator anim;
-    Rigidbody2D rb;
 
 
     void Start()
     {
         anim = GetComponent<Animator>();
-        rb = GetComponent<Rigidbody2D>();
     }
 
     void Update()
@@ -47,10 +47,15 @@ public class MushRoomController : MonoBehaviour
         }
     }
 
-    public void KillEnemy()
+    public void TakeDamage(int dmg)
     {
+        health -= dmg;
         anim.SetTrigger("Hit");
-        rb.linearVelocity = new Vector2 (0, 3);
-        Destroy(gameObject, 0.4f);
+
+        if (health <= 0)
+        {
+            anim.SetTrigger("Hit");
+            Destroy(gameObject, 0.4f);
+        }
     }
 }
