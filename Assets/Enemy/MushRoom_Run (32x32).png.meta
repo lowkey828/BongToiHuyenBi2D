@@ -148,20 +148,20 @@ TextureImporter:
       name: MushRoom_Run (32x32)_0
       rect:
         serializedVersion: 2
-        x: 2
+        x: 0
         y: 0
-        width: 28
-        height: 19
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b46dcdbf292528b50800000000000000
-      internalID: 6593923595668084299
+      spriteID: 3ecfb7efe1812ca4eb64cc783efa784b
+      internalID: 1318417756
       vertices: []
       indices: 
       edges: []
@@ -170,20 +170,20 @@ TextureImporter:
       name: MushRoom_Run (32x32)_1
       rect:
         serializedVersion: 2
-        x: 34
+        x: 32
         y: 0
-        width: 28
-        height: 22
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2485dcd02166af420800000000000000
-      internalID: 2664554357270075458
+      spriteID: 54fed52e1f3a6e1489108db90d37ff8d
+      internalID: 573629272
       vertices: []
       indices: 
       edges: []
@@ -192,20 +192,20 @@ TextureImporter:
       name: MushRoom_Run (32x32)_2
       rect:
         serializedVersion: 2
-        x: 66
+        x: 64
         y: 0
-        width: 28
-        height: 22
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 32c384291c305b180800000000000000
-      internalID: -9100363342114440157
+      spriteID: f72785bd709bf214d8e382170bce24c7
+      internalID: 1105216741
       vertices: []
       indices: 
       edges: []
@@ -214,20 +214,20 @@ TextureImporter:
       name: MushRoom_Run (32x32)_3
       rect:
         serializedVersion: 2
-        x: 98
+        x: 96
         y: 0
-        width: 28
-        height: 22
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 602124f7c02baf710800000000000000
-      internalID: 1727889173794394630
+      spriteID: 22bf6ef9571cb47458e1593d2cb65e20
+      internalID: 624544524
       vertices: []
       indices: 
       edges: []
@@ -236,20 +236,20 @@ TextureImporter:
       name: MushRoom_Run (32x32)_4
       rect:
         serializedVersion: 2
-        x: 130
+        x: 128
         y: 0
-        width: 28
-        height: 22
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5ac96bc42a8377fa0800000000000000
-      internalID: -5803107325120701275
+      spriteID: 598ffc3904915da41afff74f0139a84b
+      internalID: 578564636
       vertices: []
       indices: 
       edges: []
@@ -258,20 +258,20 @@ TextureImporter:
       name: MushRoom_Run (32x32)_5
       rect:
         serializedVersion: 2
-        x: 162
+        x: 160
         y: 0
-        width: 28
-        height: 21
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9b513aadaf2861230800000000000000
-      internalID: 3609216165305587129
+      spriteID: fdb8eda4fbd16014b828bd7817f33727
+      internalID: 759164538
       vertices: []
       indices: 
       edges: []
@@ -280,20 +280,20 @@ TextureImporter:
       name: MushRoom_Run (32x32)_6
       rect:
         serializedVersion: 2
-        x: 193
+        x: 192
         y: 0
-        width: 30
-        height: 18
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 146a6bcf23ab007f0800000000000000
-      internalID: -648313618190391743
+      spriteID: 4eeb0109fe4bf414dbb479ce1f8568d4
+      internalID: -1834298901
       vertices: []
       indices: 
       edges: []
@@ -302,20 +302,20 @@ TextureImporter:
       name: MushRoom_Run (32x32)_7
       rect:
         serializedVersion: 2
-        x: 225
+        x: 224
         y: 0
-        width: 30
-        height: 18
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0a735e1ad40e5c300800000000000000
-      internalID: 271869976559040416
+      spriteID: 9cb58ef91b57a7140b88bfbc848f3517
+      internalID: -537610756
       vertices: []
       indices: 
       edges: []
@@ -324,20 +324,20 @@ TextureImporter:
       name: MushRoom_Run (32x32)_8
       rect:
         serializedVersion: 2
-        x: 258
+        x: 256
         y: 0
-        width: 28
-        height: 19
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3ce13076f1afde130800000000000000
-      internalID: 3597806690118082243
+      spriteID: d608b8aebfb3b844e938f324511340f6
+      internalID: -1078922287
       vertices: []
       indices: 
       edges: []
@@ -346,20 +346,20 @@ TextureImporter:
       name: MushRoom_Run (32x32)_9
       rect:
         serializedVersion: 2
-        x: 290
+        x: 288
         y: 0
-        width: 28
-        height: 22
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5596f368b19c65c60800000000000000
-      internalID: 7806648124146936149
+      spriteID: 17bc39ffcef21b54ca6ad8f071a5b658
+      internalID: -2011400342
       vertices: []
       indices: 
       edges: []
@@ -368,20 +368,20 @@ TextureImporter:
       name: MushRoom_Run (32x32)_10
       rect:
         serializedVersion: 2
-        x: 322
+        x: 320
         y: 0
-        width: 28
-        height: 22
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8e5ab0c8adf998470800000000000000
-      internalID: 8397418741210260968
+      spriteID: ce8b6306555f335499c4b0a55a1e9845
+      internalID: 15870649
       vertices: []
       indices: 
       edges: []
@@ -390,20 +390,20 @@ TextureImporter:
       name: MushRoom_Run (32x32)_11
       rect:
         serializedVersion: 2
-        x: 354
+        x: 352
         y: 0
-        width: 28
-        height: 22
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 756ef000f1d73bcd0800000000000000
-      internalID: -2543551792435698089
+      spriteID: 4fc6cbe314535f34f84a9cc29aec201a
+      internalID: -1676448833
       vertices: []
       indices: 
       edges: []
@@ -412,20 +412,20 @@ TextureImporter:
       name: MushRoom_Run (32x32)_12
       rect:
         serializedVersion: 2
-        x: 386
+        x: 384
         y: 0
-        width: 28
-        height: 22
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 98bb697eebdda1ab0800000000000000
-      internalID: -5036469421261538423
+      spriteID: 5b4ccd0ce1144934b93dfbf5ef4afa40
+      internalID: 1171983206
       vertices: []
       indices: 
       edges: []
@@ -434,20 +434,20 @@ TextureImporter:
       name: MushRoom_Run (32x32)_13
       rect:
         serializedVersion: 2
-        x: 418
+        x: 416
         y: 0
-        width: 28
-        height: 21
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7d322d63207cfd840800000000000000
-      internalID: 5251134502860891095
+      spriteID: ec225a1cef1dac548a7e0960685ffaeb
+      internalID: 1035930054
       vertices: []
       indices: 
       edges: []
@@ -456,20 +456,20 @@ TextureImporter:
       name: MushRoom_Run (32x32)_14
       rect:
         serializedVersion: 2
-        x: 449
+        x: 448
         y: 0
-        width: 30
-        height: 18
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 56bc302653123d380800000000000000
-      internalID: -8947771521493644443
+      spriteID: bbdd3559f09a8eb40af1e74330f0f3aa
+      internalID: -1402753965
       vertices: []
       indices: 
       edges: []
@@ -478,20 +478,20 @@ TextureImporter:
       name: MushRoom_Run (32x32)_15
       rect:
         serializedVersion: 2
-        x: 481
+        x: 480
         y: 0
-        width: 30
-        height: 18
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a34cb0181302bbde0800000000000000
-      internalID: -1316423069085219782
+      spriteID: 11e67bc0381f80d4f8e58f89e76e588d
+      internalID: 1021251787
       vertices: []
       indices: 
       edges: []
@@ -500,7 +500,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 286a2cdd24a889240ad693d644034d2a
     internalID: 0
     vertices: []
     indices: 
@@ -510,22 +510,22 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      MushRoom_Run (32x32)_0: 6593923595668084299
-      MushRoom_Run (32x32)_1: 2664554357270075458
-      MushRoom_Run (32x32)_10: 8397418741210260968
-      MushRoom_Run (32x32)_11: -2543551792435698089
-      MushRoom_Run (32x32)_12: -5036469421261538423
-      MushRoom_Run (32x32)_13: 5251134502860891095
-      MushRoom_Run (32x32)_14: -8947771521493644443
-      MushRoom_Run (32x32)_15: -1316423069085219782
-      MushRoom_Run (32x32)_2: -9100363342114440157
-      MushRoom_Run (32x32)_3: 1727889173794394630
-      MushRoom_Run (32x32)_4: -5803107325120701275
-      MushRoom_Run (32x32)_5: 3609216165305587129
-      MushRoom_Run (32x32)_6: -648313618190391743
-      MushRoom_Run (32x32)_7: 271869976559040416
-      MushRoom_Run (32x32)_8: 3597806690118082243
-      MushRoom_Run (32x32)_9: 7806648124146936149
+      MushRoom_Run (32x32)_0: 1318417756
+      MushRoom_Run (32x32)_1: 573629272
+      MushRoom_Run (32x32)_10: 15870649
+      MushRoom_Run (32x32)_11: -1676448833
+      MushRoom_Run (32x32)_12: 1171983206
+      MushRoom_Run (32x32)_13: 1035930054
+      MushRoom_Run (32x32)_14: -1402753965
+      MushRoom_Run (32x32)_15: 1021251787
+      MushRoom_Run (32x32)_2: 1105216741
+      MushRoom_Run (32x32)_3: 624544524
+      MushRoom_Run (32x32)_4: 578564636
+      MushRoom_Run (32x32)_5: 759164538
+      MushRoom_Run (32x32)_6: -1834298901
+      MushRoom_Run (32x32)_7: -537610756
+      MushRoom_Run (32x32)_8: -1078922287
+      MushRoom_Run (32x32)_9: -2011400342
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

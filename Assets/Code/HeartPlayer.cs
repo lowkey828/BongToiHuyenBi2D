@@ -1,3 +1,4 @@
+
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -27,6 +28,17 @@ public class HeartPlayer : MonoBehaviour
     public void TakeDamage()
     {
         heart--;
+        player.transform.position = spawnPoint.position;
+
+        if (heart <= 0)
+        {
+            manager.GameOver();
+        }
+    }
+
+    public void TakeDamage2(int damage)
+    {
+        heart -= damage;
         player.transform.position = spawnPoint.position;
 
         if (heart <= 0)

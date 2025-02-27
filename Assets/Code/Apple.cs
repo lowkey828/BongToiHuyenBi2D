@@ -1,3 +1,4 @@
+
 using UnityEngine;
 
 public class Apple : MonoBehaviour
@@ -15,6 +16,8 @@ public class Apple : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
+            GetComponent<Collider2D>().enabled = false;
+
             anim.SetTrigger("Hit");
 
             if (manager != null)

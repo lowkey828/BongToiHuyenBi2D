@@ -67,7 +67,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -81,7 +81,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -133,10 +133,10 @@ TextureImporter:
       name: Plant_Idle (44x42)_0
       rect:
         serializedVersion: 2
-        x: 10
+        x: 0
         y: 0
-        width: 30
-        height: 36
+        width: 44
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -155,10 +155,10 @@ TextureImporter:
       name: Plant_Idle (44x42)_1
       rect:
         serializedVersion: 2
-        x: 54
+        x: 44
         y: 0
-        width: 30
-        height: 36
+        width: 44
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -177,10 +177,10 @@ TextureImporter:
       name: Plant_Idle (44x42)_2
       rect:
         serializedVersion: 2
-        x: 98
+        x: 88
         y: 0
-        width: 30
-        height: 36
+        width: 44
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -199,10 +199,10 @@ TextureImporter:
       name: Plant_Idle (44x42)_3
       rect:
         serializedVersion: 2
-        x: 142
+        x: 132
         y: 0
-        width: 30
-        height: 36
+        width: 44
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -221,10 +221,10 @@ TextureImporter:
       name: Plant_Idle (44x42)_4
       rect:
         serializedVersion: 2
-        x: 186
+        x: 176
         y: 0
-        width: 30
-        height: 36
+        width: 44
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -243,10 +243,10 @@ TextureImporter:
       name: Plant_Idle (44x42)_5
       rect:
         serializedVersion: 2
-        x: 231
+        x: 220
         y: 0
-        width: 30
-        height: 35
+        width: 44
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -265,10 +265,10 @@ TextureImporter:
       name: Plant_Idle (44x42)_6
       rect:
         serializedVersion: 2
-        x: 276
+        x: 264
         y: 0
-        width: 30
-        height: 33
+        width: 44
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -287,10 +287,10 @@ TextureImporter:
       name: Plant_Idle (44x42)_7
       rect:
         serializedVersion: 2
-        x: 318
+        x: 308
         y: 0
-        width: 33
-        height: 31
+        width: 44
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -309,10 +309,10 @@ TextureImporter:
       name: Plant_Idle (44x42)_8
       rect:
         serializedVersion: 2
-        x: 361
+        x: 352
         y: 0
-        width: 32
-        height: 30
+        width: 44
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -331,10 +331,10 @@ TextureImporter:
       name: Plant_Idle (44x42)_9
       rect:
         serializedVersion: 2
-        x: 405
+        x: 396
         y: 0
-        width: 31
-        height: 32
+        width: 44
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -353,10 +353,10 @@ TextureImporter:
       name: Plant_Idle (44x42)_10
       rect:
         serializedVersion: 2
-        x: 449
+        x: 440
         y: 0
-        width: 31
-        height: 35
+        width: 44
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -375,7 +375,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 4a970b34ceca78b4d8d87e03fdf160d4
     internalID: 0
     vertices: []
     indices: 
@@ -384,7 +384,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Plant_Idle (44x42)_0: -3597969891300589373
+      Plant_Idle (44x42)_1: -5528172288484339063
+      Plant_Idle (44x42)_10: 588775007866397642
+      Plant_Idle (44x42)_2: 8016362071864297575
+      Plant_Idle (44x42)_3: -6293912842353494955
+      Plant_Idle (44x42)_4: 2426403837697625572
+      Plant_Idle (44x42)_5: -3090010258518621812
+      Plant_Idle (44x42)_6: 6449935674693186199
+      Plant_Idle (44x42)_7: -5832720122132489471
+      Plant_Idle (44x42)_8: -8091652440362641111
+      Plant_Idle (44x42)_9: 361467397001947583
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

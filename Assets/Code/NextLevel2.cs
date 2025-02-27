@@ -3,7 +3,7 @@ using UnityEngine.SceneManagement;
 
 public class NextLevel2 : MonoBehaviour
 {
-    public string nextSceneName;
+    public int nextSceneName;
 
     private void OnTriggerEnter2D(Collider2D collision)
     {

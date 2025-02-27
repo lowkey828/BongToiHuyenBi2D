@@ -1,3 +1,4 @@
+
 using TMPro;
 using UnityEngine;
 
@@ -63,7 +64,7 @@ public class PlayerController : MonoBehaviour
         if (isGround && Input.GetKeyDown(KeyCode.Space))
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
-            anim.SetBool("IsJump", true);    
+            anim.SetBool("IsJump", true);
         }
         else
         {

@@ -7,6 +7,8 @@ TagManager:
   - Enemy
   - Apple
   - Spike
+  - Plant
+  - Ground
   layers:
   - Default
   - TransparentFX
@@ -47,11 +49,11 @@ TagManager:
   - name: Ground
     uniqueID: 2548041463
     locked: 0
-  - name: Enemy
-    uniqueID: 2387726383
-    locked: 0
   - name: Item
     uniqueID: 4108854329
+    locked: 0
+  - name: Enemy
+    uniqueID: 2387726383
     locked: 0
   - name: Player
     uniqueID: 54688411

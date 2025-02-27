@@ -1,3 +1,4 @@
+
 using UnityEngine;
 
 public class MushRoomController : MonoBehaviour
@@ -55,7 +56,7 @@ public class MushRoomController : MonoBehaviour
         if (health <= 0)
         {
             anim.SetTrigger("Hit");
-            Destroy(gameObject, 0.4f);
+            Destroy(gameObject);
         }
     }
 }

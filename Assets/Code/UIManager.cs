@@ -1,3 +1,4 @@
+
 using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -28,10 +29,17 @@ public class UIManager : MonoBehaviour
     public void GameOver()
     {
         gameOverPanel.SetActive(true);
+        Time.timeScale = 0f;
     }
 
     public void LoadGame()
     {
-        SceneManager.LoadScene("Level_0");
+        SceneManager.LoadScene(1);
+        Time.timeScale = 1f;
+    }
+
+    public void Exit()
+    {
+        SceneManager.LoadScene(0);
     }
 }

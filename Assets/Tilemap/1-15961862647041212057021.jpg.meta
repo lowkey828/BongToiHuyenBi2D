@@ -1,22 +1,10 @@
 fileFormatVersion: 2
-guid: c6c2dc661a51f3546beb9f52456c7523
+guid: 3ceaeaeabf839a5449128b8ec21272d8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3828642411893417145
-    second: Mushroom_Hit_0
-  - first:
-      213: 6000473975953706362
-    second: Mushroom_Hit_1
-  - first:
-      213: 3713411442021156950
-    second: Mushroom_Hit_2
-  - first:
-      213: 1860561959851736185
-    second: Mushroom_Hit_3
-  - first:
-      213: -3677941462044884910
-    second: Mushroom_Hit_4
+      213: 6272275248139067111
+    second: 1-15961862647041212057021_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -58,12 +46,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -112,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Mushroom_Hit_0
+      name: 1-15961862647041212057021_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 32
-        height: 32
+        width: 1280
+        height: 720
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -127,96 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 74b191be20eeddac0800000000000000
-      internalID: -3828642411893417145
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mushroom_Hit_1
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a7d42bc0a47f54350800000000000000
-      internalID: 6000473975953706362
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mushroom_Hit_2
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 658ca823800b88330800000000000000
-      internalID: 3713411442021156950
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mushroom_Hit_3
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 97c319bae3b02d910800000000000000
-      internalID: 1860561959851736185
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mushroom_Hit_4
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 25042221ab355fcc0800000000000000
-      internalID: -3677941462044884910
+      spriteID: 7eeddc23b199b0750800000000000000
+      internalID: 6272275248139067111
       vertices: []
       indices: 
       edges: []
@@ -225,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 0921fd6619e092748b6a0ef4ed5c147b
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -235,11 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Mushroom_Hit_0: -3828642411893417145
-      Mushroom_Hit_1: 6000473975953706362
-      Mushroom_Hit_2: 3713411442021156950
-      Mushroom_Hit_3: 1860561959851736185
-      Mushroom_Hit_4: -3677941462044884910
+      1-15961862647041212057021_0: 6272275248139067111
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
