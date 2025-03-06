@@ -378,5 +378,4 @@ MonoBehaviour:
   fullHeart: {fileID: 21300000, guid: 3fc59628e8be662479f7f43e834ba7cf, type: 3}
   emptyHeart: {fileID: 21300000, guid: 78b5d6241b7a81349bb41386fc370ab6, type: 3}
   player: {fileID: 8070563892673174923}
-  spawnPoint: {fileID: 0}
   manager: {fileID: 0}

@@ -10,8 +10,14 @@ public class HeartPlayer : MonoBehaviour
     public Sprite emptyHeart;
 
     public GameObject player;
-    public Transform spawnPoint;
     public UIManager manager;
+
+    AudioManager audioManager;
+
+    private void Awake()
+    {
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
+    }
 
     void Update()
     {
@@ -27,8 +33,9 @@ public class HeartPlayer : MonoBehaviour
 
     public void TakeDamage()
     {
+        audioManager.PlayDead(audioManager.deadClip);
+
         heart--;
-        player.transform.position = spawnPoint.position;
 
         if (heart <= 0)
         {
@@ -38,8 +45,9 @@ public class HeartPlayer : MonoBehaviour
 
     public void TakeDamage2(int damage)
     {
+        audioManager.PlayDead(audioManager.deadClip);
+
         heart -= damage;
-        player.transform.position = spawnPoint.position;
 
         if (heart <= 0)
         {

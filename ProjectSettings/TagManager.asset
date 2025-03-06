@@ -9,6 +9,8 @@ TagManager:
   - Spike
   - Plant
   - Ground
+  - CheckPoint
+  - Audio
   layers:
   - Default
   - TransparentFX

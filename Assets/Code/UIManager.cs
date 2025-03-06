@@ -6,9 +6,13 @@ using UnityEngine.SceneManagement;
 public class UIManager : MonoBehaviour
 {
     public TextMeshProUGUI scoreText;
+    TextMeshProUGUI winScoreText;
+    TextMeshProUGUI timeText;
+
     int score = 0;
 
     public GameObject gameOverPanel;
+
 
     void Start()
     {
@@ -19,6 +23,9 @@ public class UIManager : MonoBehaviour
     {
         score++;
         UpdateScoreIU();
+
+        PlayerPrefs.SetInt("ScoreScene" + SceneManager.GetActiveScene().buildIndex, score);
+        PlayerPrefs.Save();
     }
 
     void UpdateScoreIU()
